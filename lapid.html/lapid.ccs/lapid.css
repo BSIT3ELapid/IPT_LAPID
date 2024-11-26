@@ -6,8 +6,8 @@ body {
 }
 
 header {
-    background: #333;
-    color: #fff;
+    background: #401aca;
+    color: #24db71;
     padding: 20px 0;
     text-align: center;
 }
@@ -23,7 +23,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #d12020;
     text-decoration: none;
 }
 
@@ -33,7 +33,7 @@ section {
 }
 
 .project {
-    border: 1px solid #ccc;
+    border: 1px solid #d6199e;
     padding: 15px;
     margin: 10px 0;
 }
@@ -42,5 +42,5 @@ footer {
     text-align: center;
     padding: 10px 0;
     background: #333;
-    color: #fff;
+    color: #29b8db;
 }
